@@ -11,7 +11,7 @@ requires-python = ">=3.10"
 dependencies = []
 
 [project.scripts]
-diag = "diagnostics.cli:main"
+diag = "rabtech_diagnostics.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
