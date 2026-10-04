@@ -1,4 +1,4 @@
-from diagnostics.cli import check_config
+from rabtech_diagnostics.cli import check_config
 def test_not_set(monkeypatch):
     monkeypatch.delenv("DIAG_CONFIG", raising=False)
     assert check_config()["configured"] == False

@@ -1,10 +1,10 @@
 README.txt
 pyproject.toml
-src/diagnostics/_init_.py
-src/diagnostics/cli.py
 src/rabtech_cli_diagnostics.egg-info/PKG-INFO
 src/rabtech_cli_diagnostics.egg-info/SOURCES.txt
 src/rabtech_cli_diagnostics.egg-info/dependency_links.txt
 src/rabtech_cli_diagnostics.egg-info/entry_points.txt
 src/rabtech_cli_diagnostics.egg-info/top_level.txt
+src/rabtech_diagnostics/_init_.py
+src/rabtech_diagnostics/cli.py
 tests/test_cli.py

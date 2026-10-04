@@ -1,2 +1,2 @@
 [console_scripts]
-diag = diagnostics.cli:main
+diag = rabtech_diagnostics.cli:main

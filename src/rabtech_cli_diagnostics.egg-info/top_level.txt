@@ -1,1 +1,1 @@
-diagnostics
+rabtech_diagnostics
